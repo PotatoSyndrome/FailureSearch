@@ -7,7 +7,6 @@ public class Main {
 //        System.out.print(cluster.toString());
 //        FSE.FailSearch(cluster);
         cluster.sendMessage();
-//        System.out.print(cluster.toString());
         System.out.print(cluster.toString());
         FSE.FailSearch(cluster);
         Saver saver = new Saver();
